@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barkotbb
 - 👀 I’m interested in making softwares and games
-- 🌱 I’m currently learning on youtube
-- 📫 How to reach me to be subscribe
+- 🌱 I’m currently learning at online courses
+- 📫 How to reach me discord server https://discord.gg/faPAZhXfHk
 - sbscribe to my channel , computer engineering funny and gaming
 
 <!---
