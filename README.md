@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building **C
     - ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
 
 ## 📂 Featured Projects
+- **[Apptrium](https://github.com/Xethium-Software/Apptrium/)**: I'm working on a software for linux package manager using **Rust** and **GTK4**.
 - **Game Engine (WIP)**: I'm working on a game engine using **C++** and **OpenGL**. It will be open-source once I reach a stable version.
   
 ## 📬 Get in Touch
