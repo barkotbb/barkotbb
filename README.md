@@ -1,4 +1,4 @@
-# Hello, I'm Barkotbb 👋
+# Hello, I'm ShaderHex 👋
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building **C++** and **Rust** applications, especially in the realm of **game development**.
 
